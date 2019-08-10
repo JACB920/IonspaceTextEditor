@@ -4,7 +4,7 @@
 <html>
   <head>
     <body>
-      <title> Ionspace - Text Editor For Multiple Languages </title>
+   Ionspace - Text Editor For Multiple Languages
     </body>
   </head>
   </html
