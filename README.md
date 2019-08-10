@@ -1,10 +1,2 @@
-<!-- Note: This is an experiment. And I am a beginner. So don't kill me. -->
 
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <body>
-   Ionspace - Text Editor For Multiple Languages
-    </body>
-  </head>
-  </html
+<P> Welcome to Ionspace, a text editor that is designed for multi-language coding. The languages are endless; HTML, CSS, Ruby, JS, Java, PHP, C++, C#, 
