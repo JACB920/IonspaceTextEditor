@@ -1,2 +1,14 @@
 <!-- This will be the future location of the framework of Ionspace -->
 
+<!-- This is just some code I will revisit back later. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Ionspace Text Editor </title>
+<body> 
+<h1> Welcome to Ionspace, your next favorite text editor! </h1>
+<p> Ionspace is where you can do multiple coding languages and tutorials. Do your next program today! </p>
+</body>
+</head>
+</html>
