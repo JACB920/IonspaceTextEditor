@@ -1,5 +1,5 @@
 
-<P> Welcome to Ionspace, a text editor that is designed for multi-language coding. The languages are endless; HTML, CSS, Ruby, JS, Java, PHP, C++, C#, React, Angular, MVC, and many more!. </p>
+<P> Welcome to Ionspace, a text editor that is designed for multi-language coding. The languages are endless; HTML, CSS, Ruby, JS, Java, PHP, C++, C#, React, Angular, MVC, and many more!. <b> However, </b> I designed this project so it would go along with the programming languages I learn. So this isn't going to become one thing in just one go. </p>
 
 <p> <b> This text editor is also designed for beginners in mind. </b> </p>
 
